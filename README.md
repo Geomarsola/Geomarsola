@@ -13,11 +13,11 @@
   Busco constantemente evoluir e aplicar boas práticas no desenvolvimento de soluções.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
+<p align="left"> <img src="(https://github.com/Geomarsola)&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Geomarsola" /> </p>
 
 > _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](savegnago.com.br).
+- 🔭 Atualmente, eu trabalho na [Auto Posto - Savegnago ](savegnago.com.br).
 
 - 🌱 Meus estudos atuais focam em **Front End (HTML, CSS, JavaScript e frameworks)** e **Application Design (Hexagonal Architecture)**.
 
