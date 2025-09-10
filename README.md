@@ -2,7 +2,7 @@ div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=40&lines=Tecnólogo+em+Análise+e+Desenvolvimento+de+Sistemas;Pós-Graduação+em+Banco+de+Dados;Front-End" alt="Headline" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=40&lines=Tecnólogo+em+A+e+D+de+S;Pós-Graduação+em+Banco+de+Dados+Front-End" alt="Headline" />
 <h1 align="center">Olá 👋, Eu sou {SEU-NOME-AQUI}</h1>
 <h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
 <p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
